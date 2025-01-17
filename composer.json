@@ -41,10 +41,5 @@
             "Alchemy\\Zippy\\Functional\\": "tests/Functional/",
             "Alchemy\\Zippy\\Tests\\": "tests/Tests/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.4.x-dev"
-        }
     }
 }
