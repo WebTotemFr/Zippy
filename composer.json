@@ -4,7 +4,7 @@
     "description": "Zippy, the archive manager companion",
     "keywords": ["zip", "tar", "bzip", "compression"],
     "license": "MIT",
-    "version": "2.0"
+    "version": "2.0",
     "authors": [
         {
             "name": "Alchemy",
