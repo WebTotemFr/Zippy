@@ -1,5 +1,5 @@
 {
-    "name": "alchemy/zippy",
+    "name": "wt_alchemy/zippy",
     "type": "library",
     "description": "Zippy, the archive manager companion",
     "keywords": ["zip", "tar", "bzip", "compression"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "doctrine/collections": "~2.0",
+        "doctrine/collections": ">=1.0",
         "symfony/filesystem": "^2.0.5 || ^3.0 || ^4.0 || ^5.0",
         "symfony/process": "^3.4 || ^4.0 || ^5.0",
         "symfony/polyfill-mbstring": "^1.3"
